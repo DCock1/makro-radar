@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-19T06:05:00Z",
+  "lastUpdated": "2026-09-26T06:05:00Z",
   "gdpLastUpdated": "2026-08-01T06:05:45Z",
   "currencies": [
     {
@@ -116,8 +116,8 @@
       "rateChange": 0.0,
       "rateDirection": "hold",
       "stance": "dovish",
-      "nextMeeting": "2026-09-24",
-      "rateOutlook": "SNB hält den SNB policy rate bei 0%. Nächster Termin: 24. September 2026. Die Bank signalisiert Bereitschaft zu Devisenmarkt-Interventionen bei Bedarf; Ausblick bleibt von Inflations- und Wechselkursentwicklung abhängig.",
+      "nextMeeting": "2026-12-10",
+      "rateOutlook": "SNB lässt den SNB policy rate am 24. September 2026 unverändert bei 0%. Die SNB ist bei Bedarf weiterhin bereit, am Devisenmarkt aktiv zu werden, um angemessene monetäre Bedingungen sicherzustellen. Nächster Termin: geldpolitische Lagebeurteilung am 10. Dezember 2026. Die Inflationsprognose liegt bei durchschnittlich 0.7% für 2026, 0.8% für 2027 und 0.8% für 2028; der Ausblick bleibt dovish und datenabhängig.",
       "gdp": {
         "current": 1.0,
         "forecast2026": 0.9,
