@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-26T06:05:00Z",
-  "gdpLastUpdated": "2026-08-01T06:05:45Z",
+  "lastUpdated": "2026-10-03T06:05:00Z",
+  "gdpLastUpdated": "2026-10-03T06:05:45Z",
   "currencies": [
     {
       "code": "USD",
@@ -14,13 +14,13 @@
       "nextMeeting": "2026-10-27",
       "rateOutlook": "Fed hebt die Fed Funds Target Range am 16. September 2026 einstimmig um 25 Basispunkte auf 3.75–4.00% an (Obergrenze 4.00%). Nächster Termin: FOMC-Sitzung 27.–28. Oktober 2026. Die Fed begründet den Schritt mit weiterhin erhöhter Inflation und signalisiert, dass eine weitere Anpassung zur Rückkehr zum 2%-Ziel möglich bleibt; der Ausblick ist datenabhängig.",
       "gdp": {
-        "current": 2.0,
+        "current": 2.2,
         "forecast2026": 2.3,
         "forecast2027": 2.2,
         "previousYear": 2.8,
-        "qoq": 0.4,
-        "trend": "slowing",
-        "source": "IMF WEO Update (Jul 2026)"
+        "qoq": 0.6,
+        "trend": "stable",
+        "source": "BEA GDP Q2 2026; IMF WEO Update (Jul 2026)"
       }
     },
     {
@@ -35,13 +35,13 @@
       "nextMeeting": "2026-10-29",
       "rateOutlook": "EZB erhöht den Einlagensatz mit Wirkung zum 16. September 2026 um 25 Basispunkte auf 2.50% (Hauptrefinanzierung 2.65%, Spitzenrefinanzierung 2.90%). Nächster Termin: EZB-Ratssitzung 29. Oktober 2026. Wegen anhaltender Inflationsrisiken bleibt die EZB datenabhängig und entscheidet von Sitzung zu Sitzung; kein vorab festgelegter Zinspfad.",
       "gdp": {
-        "current": 1.3,
+        "current": 1.2,
         "forecast2026": 0.9,
-        "forecast2027": 1.2,
+        "forecast2027": 1.4,
         "previousYear": 1.5,
-        "qoq": 0.3,
-        "trend": "stable",
-        "source": "IMF WEO Update (Jul 2026)"
+        "qoq": 0.6,
+        "trend": "accelerating",
+        "source": "Eurostat Q2 2026; ECB projections (Sep 2026)"
       }
     },
     {
@@ -57,12 +57,12 @@
       "rateOutlook": "BoE hält die Bank Rate am 17. September 2026 bei 3.75%; das MPC stimmte 6–3, wobei drei Mitglieder eine Erhöhung auf 4.00% bevorzugten. Nächster Termin: 5. November 2026. Die Kommunikation ist hawkish geworden: Wegen des Energiepreisschocks und anhaltender Inflationsrisiken steht die BoE bereit, bei Bedarf zu handeln; weitere Schritte bleiben abhängig von Umfang und Dauer des Schocks.",
       "gdp": {
         "current": 1.4,
-        "forecast2026": 1.0,
+        "forecast2026": 1.2,
         "forecast2027": 1.3,
         "previousYear": 1.4,
-        "qoq": 0.1,
+        "qoq": 0.5,
         "trend": "slowing",
-        "source": "IMF WEO Update (Jul 2026)"
+        "source": "ONS Q2 2026; BNP Paribas (Sep 2026)"
       }
     },
     {
@@ -70,20 +70,20 @@
       "name": "Australischer Dollar",
       "flag": "🇦🇺",
       "centralBank": "RBA",
-      "rate": 4.35,
-      "rateChange": 0.0,
-      "rateDirection": "hold",
+      "rate": 4.6,
+      "rateChange": 0.25,
+      "rateDirection": "hike",
       "stance": "hawkish",
-      "nextMeeting": "2026-09-29",
-      "rateOutlook": "RBA hält den Cash Rate Target bei 4.35% (Entscheidung vom 11. August 2026; wirksam ab 12. August). Nächster Termin: 29. September 2026. Die Kommunikation bleibt hawkish: Der Vorstand diskutierte keine Zinssenkung und würde bei anhaltenden Aufwärtsrisiken für die Inflation weiter anheben.",
+      "nextMeeting": "2026-11-03",
+      "rateOutlook": "RBA erhöht den Cash Rate Target am 29. September 2026 um 25 Basispunkte auf 4.60% (wirksam ab 30. September). Der Vorstand erklärt, bei Bedarf weiter anzuheben, um die Inflation nachhaltig zum Ziel zurückzuführen; Entscheidungen bleiben datenabhängig. Nächster Zinsentscheid: 3. November 2026. Die Kommunikation bleibt hawkish.",
       "gdp": {
         "current": 2.1,
         "forecast2026": 1.9,
-        "forecast2027": 1.7,
+        "forecast2027": 1.6,
         "previousYear": 1.3,
-        "qoq": 0.5,
-        "trend": "accelerating",
-        "source": "IMF WEO Update (Jul 2026)"
+        "qoq": 0.4,
+        "trend": "slowing",
+        "source": "ABS Q2 2026; IMF Article IV (Sep 2026)"
       }
     },
     {
@@ -98,13 +98,13 @@
       "nextMeeting": "2026-10-28",
       "rateOutlook": "RBNZ hebt den Official Cash Rate am 2. September 2026 um 25 Basispunkte von 2.50% auf 2.75% an (Konsensentscheidung). Nächster Review: 28. Oktober 2026. Die graduelle Rücknahme der geldpolitischen Unterstützung bleibt angemessen; weitere Schritte hängen von der Entwicklung der mittelfristigen Inflationsrisiken ab.",
       "gdp": {
-        "current": 0.4,
-        "forecast2026": 1.2,
-        "forecast2027": 2.3,
+        "current": 1.7,
+        "forecast2026": 1.7,
+        "forecast2027": 2.6,
         "previousYear": -0.3,
-        "qoq": -0.1,
-        "trend": "recovering",
-        "source": "NZ Treasury BEFU 2026"
+        "qoq": 0.2,
+        "trend": "slowing",
+        "source": "Stats NZ GDP June 2026; ANZ QEO (Aug 2026)"
       }
     },
     {
@@ -119,13 +119,13 @@
       "nextMeeting": "2026-12-10",
       "rateOutlook": "SNB lässt den SNB policy rate am 24. September 2026 unverändert bei 0%. Die SNB ist bei Bedarf weiterhin bereit, am Devisenmarkt aktiv zu werden, um angemessene monetäre Bedingungen sicherzustellen. Nächster Termin: geldpolitische Lagebeurteilung am 10. Dezember 2026. Die Inflationsprognose liegt bei durchschnittlich 0.7% für 2026, 0.8% für 2027 und 0.8% für 2028; der Ausblick bleibt dovish und datenabhängig.",
       "gdp": {
-        "current": 1.0,
-        "forecast2026": 0.9,
+        "current": 1.9,
+        "forecast2026": 1.7,
         "forecast2027": 1.6,
         "previousYear": 1.5,
-        "qoq": 0.2,
-        "trend": "slowing",
-        "source": "SECO Economic forecast (Jul 2026)"
+        "qoq": 1.5,
+        "trend": "accelerating",
+        "source": "SECO GDP Q2 2026; Swiss government forecast (Sep 2026)"
       }
     },
     {
@@ -140,13 +140,13 @@
       "nextMeeting": "2026-10-28",
       "rateOutlook": "BoC hält den Zielwert für den Overnight Rate am 2. September 2026 bei 2.25% (Bank Rate 2.50%, Einlagensatz 2.20%). Nächster Zinsentscheid: 28. Oktober 2026. Der Ausblick bleibt datenabhängig und richtet sich an Inflation, Nachfrage und globalen Entwicklungen aus.",
       "gdp": {
-        "current": 1.2,
-        "forecast2026": 0.7,
-        "forecast2027": 1.8,
+        "current": 1.0,
+        "forecast2026": 0.9,
+        "forecast2027": 1.6,
         "previousYear": 2.0,
-        "qoq": 0.1,
-        "trend": "slowing",
-        "source": "Bank of Canada MPR (Jul 2026)"
+        "qoq": 0.8,
+        "trend": "accelerating",
+        "source": "Statistics Canada/OECD Q2 2026; TD Economics (Sep 2026)"
       }
     },
     {
@@ -161,13 +161,13 @@
       "nextMeeting": "2026-10-29",
       "rateOutlook": "BoJ erhöht den kurzfristigen unbesicherten Tagesgeldsatz am 18. September 2026 von rund 1.00% auf rund 1.25% (7–2; wirksam ab 24. September). Nächster Termin: geldpolitische Sitzung 29.–30. Oktober 2026. Die BoJ will den Leitzins weiter anheben und die geldpolitische Akkommodierung abhängig von Konjunktur, Preisen und Finanzbedingungen anpassen; kein vorgegebener Zinspfad.",
       "gdp": {
-        "current": 1.3,
-        "forecast2026": 0.6,
-        "forecast2027": 0.7,
+        "current": 0.5,
+        "forecast2026": 0.9,
+        "forecast2027": 1.0,
         "previousYear": 1.3,
-        "qoq": 0.2,
-        "trend": "slowing",
-        "source": "IMF WEO Update (Jul 2026)"
+        "qoq": 0.4,
+        "trend": "recovering",
+        "source": "OECD GDP Q2 2026; Cabinet Office; Dai-ichi Life RI (Sep 2026)"
       }
     }
   ]
