@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-03T06:05:00Z",
+  "lastUpdated": "2026-10-10T06:05:00Z",
   "gdpLastUpdated": "2026-10-03T06:05:45Z",
   "currencies": [
     {
@@ -12,7 +12,7 @@
       "rateDirection": "hike",
       "stance": "hawkish",
       "nextMeeting": "2026-10-27",
-      "rateOutlook": "Fed hebt die Fed Funds Target Range am 16. September 2026 einstimmig um 25 Basispunkte auf 3.75–4.00% an (Obergrenze 4.00%). Nächster Termin: FOMC-Sitzung 27.–28. Oktober 2026. Die Fed begründet den Schritt mit weiterhin erhöhter Inflation und signalisiert, dass eine weitere Anpassung zur Rückkehr zum 2%-Ziel möglich bleibt; der Ausblick ist datenabhängig.",
+      "rateOutlook": "Fed hebt die Fed Funds Target Range am 16. September 2026 um 25 Basispunkte auf 3.75–4.00% an (Obergrenze 4.00%; wirksam ab 17. September). Laut am 7. Oktober veröffentlichtem FOMC-Protokoll hielten die meisten Teilnehmer eine weitere Anhebung bis Jahresende für wahrscheinlich angemessen; künftige Entscheidungen bleiben datenabhängig. Nächster Termin: FOMC-Sitzung 27.–28. Oktober 2026.",
       "gdp": {
         "current": 2.2,
         "forecast2026": 2.3,
