@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T06:05:00Z",
+  "lastUpdated": "2026-10-17T06:00:00Z",
   "gdpLastUpdated": "2026-10-03T06:05:45Z",
   "currencies": [
     {
@@ -32,8 +32,8 @@
       "rateChange": 0.25,
       "rateDirection": "hike",
       "stance": "hawkish",
-      "nextMeeting": "2026-10-29",
-      "rateOutlook": "EZB erhöht den Einlagensatz mit Wirkung zum 16. September 2026 um 25 Basispunkte auf 2.50% (Hauptrefinanzierung 2.65%, Spitzenrefinanzierung 2.90%). Nächster Termin: EZB-Ratssitzung 29. Oktober 2026. Wegen anhaltender Inflationsrisiken bleibt die EZB datenabhängig und entscheidet von Sitzung zu Sitzung; kein vorab festgelegter Zinspfad.",
+      "nextMeeting": "2026-10-28",
+      "rateOutlook": "EZB erhöht den Einlagensatz mit Wirkung zum 16. September 2026 um 25 Basispunkte auf 2.50% (Hauptrefinanzierung 2.65%, Spitzenrefinanzierung 2.90%). Nächster Termin: EZB-Ratssitzung 28. Oktober 2026. Wegen anhaltender Inflationsrisiken bleibt die EZB datenabhängig und entscheidet von Sitzung zu Sitzung; kein vorab festgelegter Zinspfad.",
       "gdp": {
         "current": 1.2,
         "forecast2026": 0.9,
