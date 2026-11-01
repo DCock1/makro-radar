@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-31T06:00:00Z",
-  "gdpLastUpdated": "2026-10-03T06:05:45Z",
+  "lastUpdated": "2026-11-01T07:00:00Z",
+  "gdpLastUpdated": "2026-11-01T07:00:00Z",
   "currencies": [
     {
       "code": "USD",
@@ -14,13 +14,13 @@
       "nextMeeting": "2026-12-08",
       "rateOutlook": "Das FOMC hält die Fed-Funds-Target-Range am 28. Oktober 2026 unverändert bei 3.75–4.00%. Zwei Mitglieder stimmten für eine Erhöhung; die Inflation bleibt laut Erklärung erhöht. Die geldpolitische Haltung bleibt hawkish und datenabhängig. Nächster Termin: FOMC-Sitzung 8.–9. Dezember 2026.",
       "gdp": {
-        "current": 2.2,
+        "current": 2.1,
         "forecast2026": 2.3,
-        "forecast2027": 2.2,
+        "forecast2027": 2.3,
         "previousYear": 2.8,
-        "qoq": 0.6,
-        "trend": "stable",
-        "source": "BEA GDP Q2 2026; IMF WEO Update (Jul 2026)"
+        "qoq": 0.8,
+        "trend": "accelerating",
+        "source": "BEA GDP Q3 2026 (Advance); IMF WEO (Oct 2026)"
       }
     },
     {
@@ -35,13 +35,13 @@
       "nextMeeting": "2026-12-16",
       "rateOutlook": "Der EZB-Rat hält die drei Leitzinsen am 29. Oktober 2026 unverändert. Er verweist auf steigende Energiepreise und Aufwärtsrisiken für die Inflation; die Entscheidungen bleiben datenabhängig und erfolgen von Sitzung zu Sitzung, ohne vorab festgelegten Zinspfad. Die Kommunikation bleibt hawkish. Nächster Termin: EZB-Ratssitzung 16.–17. Dezember 2026.",
       "gdp": {
-        "current": 1.2,
+        "current": 1.3,
         "forecast2026": 0.9,
         "forecast2027": 1.4,
         "previousYear": 1.5,
-        "qoq": 0.6,
-        "trend": "accelerating",
-        "source": "Eurostat Q2 2026; ECB projections (Sep 2026)"
+        "qoq": 0.4,
+        "trend": "stable",
+        "source": "Eurostat Flash Q3 2026; ECB projections (Sep 2026)"
       }
     },
     {
@@ -57,12 +57,12 @@
       "rateOutlook": "BoE hält die Bank Rate am 17. September 2026 bei 3.75%; das MPC stimmte 6–3, wobei drei Mitglieder eine Erhöhung auf 4.00% bevorzugten. Nächster Termin: 5. November 2026. Die Kommunikation ist hawkish geworden: Wegen des Energiepreisschocks und anhaltender Inflationsrisiken steht die BoE bereit, bei Bedarf zu handeln; weitere Schritte bleiben abhängig von Umfang und Dauer des Schocks.",
       "gdp": {
         "current": 1.4,
-        "forecast2026": 1.2,
-        "forecast2027": 1.3,
+        "forecast2026": 1.3,
+        "forecast2027": 1.2,
         "previousYear": 1.4,
         "qoq": 0.5,
         "trend": "slowing",
-        "source": "ONS Q2 2026; BNP Paribas (Sep 2026)"
+        "source": "ONS Q2 2026; IMF WEO (Oct 2026)"
       }
     },
     {
@@ -83,7 +83,7 @@
         "previousYear": 1.3,
         "qoq": 0.4,
         "trend": "slowing",
-        "source": "ABS Q2 2026; IMF Article IV (Sep 2026)"
+        "source": "ABS Q2 2026; IMF WEO (Oct 2026)"
       }
     },
     {
@@ -99,12 +99,12 @@
       "rateOutlook": "Der RBNZ-MPC hält den Official Cash Rate am 28. Oktober 2026 mit 4–3 Stimmen bei 2.75%; drei Mitglieder bevorzugten eine Erhöhung um 25 Basispunkte. Alle Mitglieder hielten eine weitere Straffung für wahrscheinlich, abhängig vom wirtschaftlichen Ausblick. Die Haltung bleibt hawkish. Nächster OCR-Entscheid: 9. Dezember 2026.",
       "gdp": {
         "current": 1.7,
-        "forecast2026": 1.7,
+        "forecast2026": 2.0,
         "forecast2027": 2.6,
         "previousYear": -0.3,
         "qoq": 0.2,
         "trend": "slowing",
-        "source": "Stats NZ GDP June 2026; ANZ QEO (Aug 2026)"
+        "source": "Stats NZ GDP June 2026; IMF WEO (Oct 2026)"
       }
     },
     {
@@ -141,12 +141,12 @@
       "rateOutlook": "Die Bank of Canada erhöht den Zielwert für den Overnight Rate am 28. Oktober 2026 um 25 Basispunkte auf 2.50% (Bank Rate 2.75%, Einlagensatz 2.45%). Sie verweist auf hohe Energiepreise und das Risiko breiterer Preisdruckeffekte; weitere Erhöhungen sind möglich, sollen angesichts der Unsicherheit aber vorsichtig erfolgen. Die Haltung verschiebt sich von neutral zu hawkish. Nächster Zinsentscheid: 9. Dezember 2026.",
       "gdp": {
         "current": 1.0,
-        "forecast2026": 0.9,
-        "forecast2027": 1.6,
+        "forecast2026": 1.1,
+        "forecast2027": 1.7,
         "previousYear": 2.0,
         "qoq": 0.8,
         "trend": "accelerating",
-        "source": "Statistics Canada/OECD Q2 2026; TD Economics (Sep 2026)"
+        "source": "Statistics Canada/OECD Q2 2026; IMF WEO (Oct 2026)"
       }
     },
     {
@@ -162,12 +162,12 @@
       "rateOutlook": "Die BoJ bestätigt am 30. Oktober 2026 mit einer 8–1-Abstimmung die geldpolitische Leitlinie nach der September-Erhöhung; ein Mitglied sprach sich für eine schnellere Annäherung an den neutralen Zinssatz aus. Die Mehrheit gibt keinen festen Zeitplan für weitere Änderungen vor; die Haltung bleibt hawkish, aber datenabhängig. Nächster Termin: geldpolitische Sitzung 17.–18. Dezember 2026.",
       "gdp": {
         "current": 0.5,
-        "forecast2026": 0.9,
-        "forecast2027": 1.0,
+        "forecast2026": 0.7,
+        "forecast2027": 0.7,
         "previousYear": 1.3,
         "qoq": 0.4,
         "trend": "recovering",
-        "source": "OECD GDP Q2 2026; Cabinet Office; Dai-ichi Life RI (Sep 2026)"
+        "source": "OECD GDP Q2 2026; Cabinet Office; IMF WEO (Oct 2026)"
       }
     }
   ]
